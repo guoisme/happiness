@@ -7,4 +7,4 @@ cnpm install
 npm run dev
 ```
 ## 网站展示
-![首页](https://raw.githubusercontent.com/guoisme/happiness/master/img/index.png)
+![首页](https://raw.githubusercontent.com/guoisme/happiness/master/img/index.jpg)
