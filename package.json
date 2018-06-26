@@ -1,0 +1,14 @@
+{
+  "name": "happiness",
+  "version": "1.0.0",
+  "description": "Happiness collection station",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files *.*"
+  },
+  "author": "guo",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5"
+  }
+}

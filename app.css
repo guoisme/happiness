@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0;}
+body{font-family: Microsoft Yahei;font-size: 14px;color: #333;}
+.header{background-attachment:fixed;height:100px;width: 100%;padding-top: 50px;background: url(img/banner.jpg) no-repeat;background-size:100% ;}
+.header h1{color: #fff;text-shadow: #420000 3px 3px 3px;}
+.common{width: 1000px;margin: 0 auto;}
+
+.main{margin-top: 30px}
+.right{float: right;width: 65%;}
+.left{float: left;width: 30%;padding: 5px;}
+.clear{clear: both;}
+
+
+.form-group{margin-bottom: 15px}
+label {display: inline-block;max-width: 100%;margin-bottom: 5px;font-weight: bold;}
+.form-group .form-control{display: block;width: 80%;padding: 6px 12px;line-height: 1.42857143;color: #555;background-color: #fff;background-image: none;border: 1px solid #ccc;border-radius: 4px;}
+.form-group input{ height: 30px;}
+.form-group textarea{min-height: 134px;}
+.form-group button{background:#fff;border: #ccc 1px solid;padding: 6px 12px;cursor: pointer;margin-bottom: 0;font-size: 14px;line-height: 1.42857143;text-align: center; border-radius: 4px;}
+
+.item-list{border-left:#420000 1px solid;}
+.item{float: left;width: 300px;height: 318px;margin-right: 10px;margin-bottom: 10px;margin-left: 10px; }
+.item .close{background: red;color:#fff;float: left;left: 30px;top: 20px;width:20px;height:20px;border-radius: 10px;text-align: center;line-height: 20px;font-size: 12px;cursor: pointer;}
+.item .name{}
+.item .content{width: 200px;margin-top: 127px;margin-left: 50px}
+.item .name{font-weight: bold;color: #420000;margin-left: 50px;margin-top: 15px;}
+.item .name span{margin-right: 5px;}
